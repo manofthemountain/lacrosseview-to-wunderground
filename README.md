@@ -1,9 +1,3 @@
-# lacrosseview-to-wunderground
-This project connects your Lacrosse weather station to your Weather Underground Personal Weather Station (PWS) Network
-<div id="top"></div>
-
-
-
 
 <!-- PROJECT SHIELDS -->
 <!--
@@ -29,10 +23,10 @@ This project connects your Lacrosse weather station to your Weather Underground 
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">Lacrosse View to Wunderground</h3>
 
   <p align="center">
-    project_description
+    Connects your Lacrosse weather station to your Weather Underground Personal Weather Station (PWS) Network
     <br />
     <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
     <br />
@@ -88,14 +82,9 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 ### Built With
 
-* [Next.js](https://nextjs.org/)
-* [React.js](https://reactjs.org/)
-* [Vue.js](https://vuejs.org/)
-* [Angular](https://angular.io/)
-* [Svelte](https://svelte.dev/)
-* [Laravel](https://laravel.com)
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
+* [Python](https://www.python.org/)
+* [AWS](https://aws.amazon.com/)
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -181,7 +170,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Distributed under the GNU GPLV3. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -190,9 +179,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+Ryan - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/manofthemountain/lacrosseview-to-wunderground](https://github.com/manofthemountain/lacrosseview-to-wunderground)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -201,9 +190,8 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* []()
-* []()
-* []()
+* [keithprickett/lacrosse_weather](https://github.com/keithprickett/lacrosse_weather)
+* [dbconfession78/py_weather_station](https://github.com/dbconfession78/py_weather_station)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
