@@ -22,9 +22,7 @@
     <br />
     <a href="https://github.com/manofthemountain/lacrosseview-to-wunderground"><strong>Explore the docs »</strong></a>
     <br />
-    <br />
-    <a href="https://github.com/manofthemountain/lacrosseview-to-wunderground">View Demo</a>
-    ·
+    <br />    ·
     <a href="https://github.com/manofthemountain/lacrosseview-to-wunderground/issues">Report Bug</a>
     ·
     <a href="https://github.com/manofthemountain/lacrosseview-to-wunderground/issues">Request Feature</a>
@@ -64,9 +62,27 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<!--- [![Product Name Screen Shot][product-screenshot]](https://example.com)  --->
 
 Not all La Crosse weather stations are integrated with Weather Underground Personal Weather Station (PWS) Network.  Lacrosse relies on its own app, La Crosse View, and cloud storage for viewing and collecting your weather.  This project allows you to access your weather data stored on the La Crosse servers and publish it to a Weather Underground.
+
+#### Supported La Crosse Systems
+#####  Tested
+- [x] V61 Complete Personal Remote Monitoring Wi-Fi Weather Station
+
+#####  Unknown
+- [ ] VA1 Wi-Fi Projection Alarm Clock with Outdoor Temp and Humidity
+- [ ] 328-10618V2 Complete Personal Wi-Fi Weather Station with AccuWeather
+- [ ] V40A-PROV2 Complete Personal Remote Monitoring Weather Station
+- [ ] V21-WTHV3 Complete Personal Wireless Remote Monitoring Wind Station
+- [ ] V11 Wireless Wi-Fi Weather Station
+- [ ] V22-WRTHV2 Complete Personal Remote Monitoring Weather Station
+- [ ] V10V2 Wireless Wi-Fi Weather Station
+- [ ] V50 Wi-Fi Wind and Weather Station
+- [ ] C79790 WiFi Weather Station
+- [ ] C82929V2 WiFi Projection Alarm Clock with AccuWeather
+- [ ] V51 Wi-Fi Weather Station with AccuWeather Forecast
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -85,32 +101,34 @@ Not all La Crosse weather stations are integrated with Weather Underground Perso
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
+
 * python3
+  * Check your python version on command line/terminal/shell.
   ```sh
-  npm install npm@latest -g
+  python --version
   ```
+* La Crosse View Account [Android](https://play.google.com/store/apps/details?id=com.lacrosseview.app) [iOS](https://apps.apple.com/us/app/la-crosse-view/id1006925791)
+  * Account Email
+  * Account Password
+* Weather Underground Account
+  * Setup Personal Weather Station
+    * Station ID
+    * Station Key
+    * API key
+* AWS Account
+
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. Clone the repo
    ```sh
    git clone https://github.com/manofthemountain/lacrosseview-to-wunderground.git
    ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
+2. TBD
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -121,7 +139,7 @@ This is an example of how to list things you need to use the software and how to
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+_For more examples, please refer to the [Documentation](https://github.com/manofthemountain/lacrosseview-to-wunderground/wiki)_
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -130,10 +148,10 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
+- [ ] TBD Feature 1
+- [ ] TBD Feature 2
+- [ ] TBD Feature 3
+    - [ ] TBD Nested Feature
 
 See the [open issues](https://github.com/manofthemountain/lacrosseview-to-wunderground/issues) for a full list of proposed features (and known issues).
 
