@@ -1,4 +1,4 @@
-[![Contributors][contributors-shield]][contributors-url]
+multiple[![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
@@ -148,9 +148,11 @@ _For more examples, please refer to the [Documentation](https://github.com/manof
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] TBD Feature 1
-- [ ] TBD Feature 2
-- [ ] TBD Feature 3
+- [ ] Use AWS Lambda to host and run script
+- [ ] Use AWS EventBridge to run script on schedule
+- [ ] Store credentials in AWS Secrets Manager
+- [ ] Query multiple sensors
+- [ ] TBD
     - [ ] TBD Nested Feature
 
 See the [open issues](https://github.com/manofthemountain/lacrosseview-to-wunderground/issues) for a full list of proposed features (and known issues).
