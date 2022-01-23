@@ -1,12 +1,3 @@
-
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -99,7 +90,7 @@ To get a local copy up and running follow these simple example steps.
 ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
-* npm
+* python3
   ```sh
   npm install npm@latest -g
   ```
@@ -208,7 +199,7 @@ Project Link: [https://github.com/manofthemountain/lacrosseview-to-wunderground]
 [issues-shield]: https://img.shields.io/github/issues/manofthemountain/lacrosseview-to-wunderground.svg?style=for-the-badge
 [issues-url]: https://github.com/manofthemountain/lacrosseview-to-wunderground/issues
 [license-shield]: https://img.shields.io/github/license/manofthemountain/lacrosseview-to-wunderground.svg?style=for-the-badge
-[license-url]: https://github.com/manofthemountain/lacrosseview-to-wunderground/blob/master/LICENSE.txt
+[license-url]: https://github.com/manofthemountain/lacrosseview-to-wunderground/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/linkedin_username
 [product-screenshot]: images/screenshot.png
