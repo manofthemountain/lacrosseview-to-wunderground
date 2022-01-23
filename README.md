@@ -18,7 +18,7 @@
 <h3 align="center">Lacrosse View to Wunderground</h3>
 
   <p align="center">
-    Not all La Crosse weather stations are integrated with Weather Underground Personal Weather Station (PWS) Network.  Lacrosse relies on its own app, La Crosse View, and cloud storage for viewing and collecting your weather.  This project allows you to access your weather data stored on the La Crosse servers and publish it to a Weather Underground.
+    Connects your Lacrosse weather station to your Weather Underground Personal Weather Station (PWS) Network
     <br />
     <a href="https://github.com/manofthemountain/lacrosseview-to-wunderground"><strong>Explore the docs »</strong></a>
     <br />
@@ -66,7 +66,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Not all Lacrosse weather stations are intergrated with Here's a blank template to get started: To avoid retyping too much info.
+Not all La Crosse weather stations are integrated with Weather Underground Personal Weather Station (PWS) Network.  Lacrosse relies on its own app, La Crosse View, and cloud storage for viewing and collecting your weather.  This project allows you to access your weather data stored on the La Crosse servers and publish it to a Weather Underground.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
