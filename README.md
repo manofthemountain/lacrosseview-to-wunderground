@@ -3,7 +3,8 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+<!--- [![LinkedIn][linkedin-shield]][linkedin-url] --->
+
 
 
 
@@ -17,7 +18,8 @@
 <h3 align="center">Lacrosse View to Wunderground</h3>
 
   <p align="center">
-    Connects your Lacrosse weather station to your Weather Underground Personal Weather Station (PWS) Network
+    Not all La Crosse weather stations are integrated with Weather Underground Personal Weather Station (PWS) Network.  Lacrosse relies on its own app, La Crosse View, and cloud storage for viewing and collecting your weather.  This project allows you to access your weather data stored on the La Crosse servers and publish it to a Weather Underground.
+    
     <br />
     <a href="https://github.com/manofthemountain/lacrosseview-to-wunderground"><strong>Explore the docs »</strong></a>
     <br />
@@ -65,7 +67,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following:  `twitter_handle`, `linkedin_username`, `email`, `email_client`
+Not all Lacrosse weather stations are intergrated with Here's a blank template to get started: To avoid retyping too much info.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -170,7 +172,7 @@ Distributed under the GNU GPLV3. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Ryan - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+Ryan - 01medleys_mermaid@icloud.com
 
 Project Link: [https://github.com/manofthemountain/lacrosseview-to-wunderground](https://github.com/manofthemountain/lacrosseview-to-wunderground)
 
