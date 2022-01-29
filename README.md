@@ -152,8 +152,11 @@ _For more examples, please refer to the [Documentation](https://github.com/manof
 - [ ] Use AWS EventBridge to run script on schedule
 - [ ] Store credentials in AWS Secrets Manager
 - [ ] Query multiple sensors
+
+<!--
 - [ ] TBD
     - [ ] TBD Nested Feature
+-->
 
 See the [open issues](https://github.com/manofthemountain/lacrosseview-to-wunderground/issues) for a full list of proposed features (and known issues).
 
